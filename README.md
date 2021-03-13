@@ -6,7 +6,9 @@ PROGRESS
 
 |part|progress|
 |-|-|
-|p1|in progress|
+|p1|done|
+|p2|done|
+|p3|done|
 
 ---
 
